@@ -14,11 +14,10 @@ class Upload():
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
                 <meta charset="utf-8">
                 <meta name="viewport" content="width=device-width">
-                <title>Serpentario</title>
-                <h1 class="display-1" align="center">Bienvenido al animales peligrosos</h1>
+                <title>Animales peligrosos</title>
+                <h1 class="display-1" align="center" >Bienvenido al animales peligrosos</h1>
             </head>
-            <body style="background-color:#33D4FF;">
-                <div align="center" style="width:50px; height:50px;"><img src= "fondo/fondo.jpg"/> </div>
+            <body background="static/fondo.jpg">
                     <div align="center">
                         <br>
                         <br>
