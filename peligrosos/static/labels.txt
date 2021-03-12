@@ -1,0 +1,9 @@
+0 boa
+1 cobra
+2 coralillo
+3 alacran
+4 viuda_negra
+5 cien_pies
+6 tarantula
+7 sapo_bufo
+8 rana_arlequin
